@@ -1,0 +1,11 @@
+
+Project demonstrate use of setuptools and requirements file.
+
+Materials related to packaging and dependency management tools:
+
+https://virtualenv.pypa.io/en/latest/
+https://packaging.python.org
+https://setuptools.readthedocs.io/en/latest/
+https://tox.readthedocs.io/en/latest/
+http://pybuilder.github.io
+https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe/41573588
